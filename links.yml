@@ -5,7 +5,7 @@
 # 作者名称
 user_name: 健少
 # 网站名称
-site_name: OneNav
+site_name: 我的小窝
 # 网站Favicon
 shortcut_icon: ./favicon.ico
 # 网站LOGO
@@ -23,7 +23,7 @@ description: 个人网址集
 # 个人主页
 home_url: https://www.imkk.uk/
 # 个人邮箱
-email: Nav@imkk.uk
+email: 397639558@qq.com
 # GitHub链接
 github_url: https://github.com/MadisonWirtanen
 ################
@@ -84,8 +84,8 @@ categories:
         description: ChatGPT API分发站, 有需要的可发邮件申请Key
       - title: Alist
         logo: https://cdn.imkk.uk/icon/nav/alist.svg
-        url: https://alist.imkk.uk/
-        description: 个人影音库, 部署于本地, Cloudflare代理
+        url: http://frpnn2.chickfrp.com:10020
+        description: 个人网盘, 部署于本地
       - title: Reader
         logo: https://cdn.imkk.uk/icon/nav/reader.ico
         url: https://yuedu.imkk.uk/
