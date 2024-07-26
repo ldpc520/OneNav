@@ -21,7 +21,7 @@ keywords: 导航页, 导航, OneNav, GenEasy, Github, Github Pages
 # 网站描述
 description: 个人网址集
 # 个人主页
-home_url: https://www.imkk.uk/
+home_url: https://ldpc.us.kg
 # 个人邮箱
 email: 397639558@qq.com
 # GitHub链接
@@ -77,7 +77,7 @@ categories:
       - title: Github
         logo: https://s1.ax1x.com/2023/05/20/p9420hT.png
         url: https://github.com/
-        description:GitHub是一个面向开源及私有软件项目的托管平台，因为只支持Git作为唯一的版本库格式进行托管
+        description: GitHub是一个面向开源及私有软件项目的托管平台，因为只支持Git作为唯一的版本库格式进行托管
       - title: BingAI
         logo: https://cdn.imkk.uk/icon/nav/bingai.ico
         url: https://bingai.imkk.uk/
