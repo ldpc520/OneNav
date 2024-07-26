@@ -113,6 +113,14 @@ categories:
         url: https://pan.quark.cn/
         description: 夸克网盘是夸克浏览器附带的功能，特点就是和浏览器本身的很多智能小工具打通了。像浏览器的很多文字识别、文件转换、文件扫描存档等功能，都可以兼容到夸克网盘的云空间。
 
+  - category: 软件下载
+    icon: fa-solid fa-download
+    links:
+      - title: 口袋系统
+        logo: https://www.disktool.cn/favicon.ico
+        url: https://www.disktool.cn/
+        description: 傲梅致力于数据安全领域，为用户提供安全可靠的傲梅分区助手、轻松备份、数据恢复软件恢复之星以及远程控制软件Anyviewer等。
+
   - category: 学术资源
     icon: fa-solid fa-graduation-cap
     links:
