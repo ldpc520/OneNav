@@ -85,6 +85,9 @@ body {
     transition: 0.3s;
 }
 
+.sidebar-menu.collapsed .logo-text {
+    display: none;
+}
 .sidebar-menu.collapsed .logo-env .logo i {
     font-size: 3.45rem;
     transition: 0.3s;
@@ -96,7 +99,7 @@ body {
     display: table-cell;
     position: relative;
     width: 230px;
-    background: #ffffffdd;
+    background: #464545dd;
     z-index: 1
 }
 
