@@ -106,7 +106,7 @@ categories:
         description: 强大的网盘列表程序
 
   - category: 大厂网盘
-    icon: fa-cloud-upload
+    icon: fa-solid fa-cloud-upload
     links:
       - title: 夸克网盘
         logo: https://image.quark.cn/s/uae/g/3o/broccoli/resource/202404/3a41b0e0-f634-11ee-9591-75f9022c9f83.png
