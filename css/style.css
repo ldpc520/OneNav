@@ -85,11 +85,11 @@ body {
     transition: 0.3s;
 }
 
-.sidebar-menu.collapsed .logo-text {
+.sidebar-menu .logo-text {
     display: none;
 }
 
-.sidebar-menu.collapsed .logo-env .logo i {
+.sidebar-menu .logo-env .logo i {
     font-size: 3.45rem;
     transition: 0.3s;
 }
