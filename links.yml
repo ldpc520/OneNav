@@ -105,6 +105,18 @@ categories:
         url: https://alist.nn.ci/zh/
         description: 强大的网盘列表程序
 
+  - category: 博客论坛
+    icon: fa-solid fa-wordpress
+    links:
+      - title: 果核剥壳
+        logo: https://www.ghxi.com/favicon.ico
+        url: https://www.ghxi.com/
+        description: 果核剥壳是一家综合科技站点，看新闻，分享破解软件、绿色软件，Windows系统。守住互联网最后的一片净土。
+      - title: 423Down
+        logo: https://www.423down.com/wp-content/themes/D7/img/favicon.ico
+        url: https://www.423down.com/
+        description: 知名软件达人|423DOWN.COM,更新快、专注去广告类软件输出10年、个人IP品牌软件分享站
+
   - category: 大厂网盘
     icon: fa-solid fa-cloud-upload
     links:
