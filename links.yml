@@ -112,6 +112,38 @@ categories:
         logo: https://image.quark.cn/s/uae/g/3o/broccoli/resource/202404/d94d93e0-03a2-11ef-be4c-79ebae2e18ac.vnd.microsoft.icon
         url: https://pan.quark.cn/
         description: 夸克网盘是夸克浏览器附带的功能，特点就是和浏览器本身的很多智能小工具打通了。像浏览器的很多文字识别、文件转换、文件扫描存档等功能，都可以兼容到夸克网盘的云空间。
+      - title: 蓝奏云优享版
+        logo: https://www.ilanzou.com/favicon.ico
+        url: https://www.ilanzou.com/
+        description: 蓝奏云优享版
+      - title: UC网盘
+        logo: https://fast.uc.cn/favicon.ico
+        url: https://fast.uc.cn/
+        description: 文件传输助手，不限速
+      - title: 坚果云
+        logo: https://www.jianguoyun.com/favicon.ico
+        url: https://www.jianguoyun.com/
+        description: 坚果云是一款提供网盘|云盘|云服务的团队协助软件,可随时随地实现共享文件夹。坚果云网盘支持移动办公,协同办公,文件同步,数据备份,智能管理,在线编辑等功能。
+      - title: 百度网盘
+        logo: https://nd-static.bdstatic.com/m-static/wp-brand/favicon.ico
+        url: http://pan.baidu.com/
+        description: 百度网盘是一款国民级产品，已连续9年为超过7亿用户提供稳定、安全的个人云存储服务，已实现电脑、手机、电视等多种终端场景的覆盖和互联，并支持多类型文件的备份、分享、查看和处理
+      - title: 文叔叔
+        logo: https://www.wenshushu.cn/favicon.ico
+        url: https://www.wenshushu.cn/
+        description: 文叔叔，免费空间 40GB，一款永不限速的云存储产品。传文件、收文件、网盘，还支持历史记录等高级功能。
+      - title: 蓝奏云
+        logo: https://up.woozooo.com/favicon.ico
+        url: https://www.lanzou.com/
+        description: 一款不限速的高速网盘
+      - title: 阿里云盘
+        logo: https://img.alicdn.com/imgextra/i2/O1CN01DOYcs71v3B6bOemVM_!!6000000006116-2-tps-512-512.png
+        url: https://www.aliyundrive.com/
+        description: 阿里云盘是一款速度快、不打扰、够安全、易于分享的个人网盘，欢迎你来体验。
+      - title: 123网盘
+        logo: https://www.123pan.com/static/favicon.ico
+        url: https://www.123pan.com/
+        description: 新用户免费注册送2T超大空间，上传下载不限速，分享免登录下载
 
   - category: 软件下载
     icon: fa-solid fa-download
