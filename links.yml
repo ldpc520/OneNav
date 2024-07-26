@@ -100,7 +100,11 @@ categories:
         logo: https://cdn.imkk.uk/icon/nav/filebox.png
         url: https://box.imkk.uk/
         description: 匿名口令分享文本、文件, 部署于本地, Cloudflare代理
-
+      - title: Alist
+        logo: https://alist.nn.ci/logo.svg
+        url: https://alist.nn.ci/zh/
+        description: 强大的网盘列表程序
+        
   - category: 学术资源
     icon: fa-solid fa-graduation-cap
     links:
