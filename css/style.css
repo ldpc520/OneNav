@@ -44,7 +44,7 @@ body {
     background-size: auto !important;     /*背景图片大小, 原为cover*/
     transition: 0.3s;
     font-family: 'HarmonyOS_Regular', sans-serif !important;
-    opacity: 0.5;
+    opacity: 0.2;
 }
 
 .col-sm-3 {
