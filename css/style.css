@@ -100,7 +100,7 @@ body {
     display: table-cell;
     position: relative;
     width: 230px;
-    background: #454944dd;
+    background: rgb(71, 71, 70);
     z-index: 1
 }
 
