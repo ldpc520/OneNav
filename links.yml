@@ -30,25 +30,25 @@ github_url: https://github.com/MadisonWirtanen
 ## 网址链接
 ################
 categories:
-  - category: Star Links
+  - category: 个人常用
     icon: fa-solid fa-star
     links:
-      - title: 主页
-        logo: https://cdn.imkk.uk/icon/svg/Home.svg
-        url: https://www.imkk.uk/
-        description: 我的主页, 欢迎访问
-      - title: 博客
-        logo: https://cdn.imkk.uk/icon/svg/Blog.svg
-        url: https://blog.imkk.uk/
-        description: 我的博客, 欢迎留言
-      - title: 监测站
-        logo: https://cdn.imkk.uk/icon/svg/CheckCircle.svg
-        url: https://monitor.imkk.uk/
-        description: 监测网站运行状态
-      - title: Email
-        logo: https://cdn.imkk.uk/icon/svg/Envelope.svg
-        url: mailto:nav@imkk.uk
-        description: 点击即可通过邮件联系我
+      - title: 个人Alist
+        logo: https://alist.nn.ci/logo.svg
+        url: http://frpnn2.chickfrp.com:10020/
+        description: 个人网盘列表，部署于本地。
+      - title: 图标抓取
+        logo: https://qglimg.qinglm.com/qinggl/favicon.ico
+        url: https://gonglue.qinggl.com/app/img/icon.jsp
+        description: 图标抓取工具,帮您快速的定位网页的favicon.ico图标网址,先分析当前网址shortcut标签,如果不存在,则访问网站首页,如果首页shortcut标签也不存在,则访问默认的根目录favicon.ico图标。
+      - title: Github
+        logo: https://s1.ax1x.com/2023/05/20/p9420hT.png
+        url: https://github.com/
+        description: GitHub是一个面向开源及私有软件项目的托管平台，因为只支持Git作为唯一的版本库格式进行托管
+      - title: PDF24 Tools
+        logo: https://tools.pdf24.org/static/img/pdf24.png?v=658057a1
+        url: https://tools.pdf24.org/zh/
+        description: 合并、压缩、创建、编辑和转换PDF文件的免费在线PDF工具。 快捷方便。没有安装。没有注册。
 
   - category: Proxy
     hide_menu: true
