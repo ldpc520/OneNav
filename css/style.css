@@ -48,7 +48,7 @@ body {
 }
 
 .col-sm-3 {
-    width: 20% !important;
+    width: 30% !important;
     float: left !important;
 
 }
@@ -100,7 +100,7 @@ body {
     display: table-cell;
     position: relative;
     width: 230px;
-    background: rgb(71, 71, 70);
+    background: #ffffffdd;
     z-index: 1
 }
 
@@ -512,7 +512,7 @@ body {
     cursor: pointer;
     border-radius: 4px;
     padding: 0 30px 0 30px;
-    background-color: #ffffff;
+    background-color: #fff;
     border-radius: 4px;
     border: 1px solid #e4ecf3;
     margin: 20px 0 0 0;
