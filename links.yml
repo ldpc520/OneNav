@@ -393,21 +393,21 @@ categories:
         url: https://tinify.cn/
         description: 智能压缩Webp、JPEG和PNG图片
 
-  - category: 影音游戏
+  - category: 影音_游戏
     icon: fa-brands fa-youtube
     links:
+      - title: 影视森林
+        logo: https://s1.ax1x.com/2023/05/20/p94RcRS.png
+        url: http://www.549.tv/
+        description: 影视森林致力于以丰富的内容、优良的观看体验要满足用户在线观看视频的需求，本站提供又新又热的电影、电视剧、动漫、综艺、游戏、娱乐视频在线观看综合影视尽在影视森林。
+      - title: MusicFree
+        logo: https://musicfree.upup.fun/favicon.ico
+        url: https://musicfree.upup.fun/
+        description: MusicFree —— 一个插件化、定制化、无广告的音乐播放器。
       - title: 小云搜索
         logo: https://crowded-coffee-wombat.faviconkit.com/yunso.net
         url: https://yunso.net/
         description: 网盘搜索引擎
-      - title: 奈斯搜索
-        logo: https://crowded-coffee-wombat.faviconkit.com/www.niceso.fun
-        url: https://www.niceso.fun/
-        description: 阿里云盘资源搜索网站
-      - title: BT之家
-        logo: https://crowded-coffee-wombat.faviconkit.com/www.btbtt18.com
-        url: https://www.btbtt18.com/
-        description: BT种子站, 资源丰富, 无法访问可更改URL中数字18为20以内其余数字尝试
       - title: MyFreeMP3
         logo: https://crowded-coffee-wombat.faviconkit.com/tools.liumingye.cn/music
         url: https://tools.liumingye.cn/music/#/
