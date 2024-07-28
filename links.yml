@@ -105,7 +105,7 @@ categories:
         url: https://alist.nn.ci/zh/
         description: 强大的网盘列表程序
         
-  - category: 网盘资源
+  - category: 网盘_资源
     icon: fa-solid fa-cloud-upload
     links:
       - title: 夸克网盘
@@ -177,7 +177,7 @@ categories:
         url: https://www.maopan.vip/
         description: 猫盘解析是一款基于Thinkphp5.0制作的一款可以解析阿里云盘、OneDrive网盘、迅雷云盘、天翼云盘、天翼家庭云盘、天翼企业网盘的文件直链解析程序
         
-  - category: 博客论坛
+  - category: 博客_论坛
     icon: fa-solid fa-wordpress
     links:
       - title: 果核剥壳
@@ -196,6 +196,30 @@ categories:
         logo: https://slsup.com/favicon.ico
         url: https://slsup.com/
         description: 深蓝个人网站，深蓝软件官方网站，深蓝软件的公告，更新和生活 深蓝穿透远程，网吧防逃费，深蓝游戏菜单
+      - title: 又要重装系统站
+        logo: https://yyczxt.com/static/img/favicon.svg
+        url: https://yyczxt.com/
+        description: 又要重装系统站，专业系统下载站，提供各种修改版，精简版，优化版Windows系统包，Windows10，Windows11，PE等系统版本下载
+      - title: 我不是矿神
+        logo: https://imnks.com/favicon.ico
+        url: https://imnks.com/
+        description: 群晖,威联通,铁威马,万由UNAS,UNRAID,ESXI,PVE,OPENWRT
+      - title: Video Talk
+        logo: https://www.vumstar.com/wp-content/themes/zibll/favicon.ico
+        url: https://www.vumstar.com/
+        description: 科技、生活、乐分享
+      - title: 佰阅部落
+        logo: https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=https://baiyue.one/
+        url: https://baiyue.one/
+        description: 专注分享优质开源项目
+      - title: 大眼仔旭 
+        logo: https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=http://www.dayanzai.me/
+        url: http://www.dayanzai.me/
+        description: 大眼仔旭网站是个人非盈利性网站,主要以分享日常工作生活办公技术资源为主,大眼仔热衷于分享互联网上一切所有美好事物,希望和您一起成长.
+      - title: 小棉袄的博客[海阔视界]
+        logo: https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=https://haikuoshijie.cn/
+        url: https://haikuoshijie.cn/
+        description: 小棉袄的博客，嗅觉浏览器、海阔视界开发者的博客
       - title: IT天空
         logo: https://www.itsk.com/favicon.ico
         url: https://www.itsk.com/
