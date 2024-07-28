@@ -37,11 +37,11 @@ categories:
     links:
       - title: 主页
         logo: https://cdn.imkk.uk/icon/svg/Home.svg
-        url: https://www.imkk.uk/
+        url: https://ldpc.us.kg
         description: 我的主页, 欢迎访问
       - title: 博客
         logo: https://cdn.imkk.uk/icon/svg/Blog.svg
-        url: https://blog.imkk.uk/
+        url: https://ldpc520.github.io
         description: 我的博客, 欢迎留言
       - title: 监测站
         logo: https://cdn.imkk.uk/icon/svg/CheckCircle.svg
@@ -49,7 +49,7 @@ categories:
         description: 监测网站运行状态
       - title: Email
         logo: https://cdn.imkk.uk/icon/svg/Envelope.svg
-        url: mailto:nav@imkk.uk
+        url: 397639558@qq.com
         description: 点击即可通过邮件联系我
 
   - category: Proxy
@@ -106,7 +106,7 @@ categories:
         description: 强大的网盘列表程序
 
 
-  - category: 网盘_源码
+  - category: 网盘资源
     icon: fa-solid fa-cloud-upload
     links:
       - title: 夸克网盘
