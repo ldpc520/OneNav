@@ -105,14 +105,6 @@ categories:
         url: https://alist.nn.ci/zh/
         description: 强大的网盘列表程序
         
-  - category: 个人
-    icon: fa-solid fa-laptop
-    links:
-      - title: 夸克网盘
-        logo: https://image.quark.cn/s/uae/g/3o/broccoli/resource/202404/d94d93e0-03a2-11ef-be4c-79ebae2e18ac.vnd.microsoft.icon
-        url: https://pan.quark.cn/
-        description: 夸克网盘是夸克浏览器附带的功能，特点就是和浏览器本身的很多智能小工具打通了。像浏览器的很多文字识别、文件转换、文件扫描存档等功能，都可以兼容到夸克网盘的云空间。
-
   - category: 网盘|资源
     icon: fa-solid fa-cloud-upload
     links:
@@ -180,11 +172,11 @@ categories:
         logo: https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=https://pan.gxnas.com:1443/
         url: https://d.gxnas.com/
         description: 个人分享的黑群晖、Esxi虚拟机、PVE虚拟机的网盘
-      - title: 网盘资源
+      - title: 猫盘解析
         logo: https://www.maopan.vip/favicon.ico
         url: https://www.maopan.vip/
         description: 猫盘解析是一款基于Thinkphp5.0制作的一款可以解析阿里云盘、OneDrive网盘、迅雷云盘、天翼云盘、天翼家庭云盘、天翼企业网盘的文件直链解析程序
-        
+   
   - category: 软件|系统
     icon: fa-solid fa-download
     links:
