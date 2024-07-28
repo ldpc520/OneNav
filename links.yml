@@ -105,19 +105,8 @@ categories:
         url: https://alist.nn.ci/zh/
         description: 强大的网盘列表程序
 
-  - category: 社区论坛
-    icon: fa-solid fa-wordpress
-    links:
-      - title: 果核剥壳
-        logo: https://www.ghxi.com/favicon.ico
-        url: https://www.ghxi.com/
-        description: 果核剥壳是一家综合科技站点，看新闻，分享破解软件、绿色软件，Windows系统。守住互联网最后的一片净土。
-      - title: 423Down
-        logo: https://www.423down.com/wp-content/themes/D7/img/favicon.ico
-        url: https://www.423down.com/
-        description: 知名软件达人|423DOWN.COM,更新快、专注去广告类软件输出10年、个人IP品牌软件分享站
 
-  - category: 大厂网盘
+  - category: 网盘&源码
     icon: fa-solid fa-cloud-upload
     links:
       - title: 夸克网盘
@@ -156,14 +145,74 @@ categories:
         logo: https://www.123pan.com/static/favicon.ico
         url: https://www.123pan.com/
         description: 新用户免费注册送2T超大空间，上传下载不限速，分享免登录下载
+      - title: 七牛云 
+        logo: https://static.qiniu.com/favicon.ico
+        url: https://www.qiniu.com/
+        description: 2011 年成立以来，七牛云致力于成为全球领先的一站式场景化智能视频云服务商
+      - title: 一刻相册
+        logo: https://staticsns.cdn.bcebos.com/amis/2023-2/1676342310828/favicon.ico
+        url: https://photo.baidu.com/
+        description: 无限相册空间
+      - title: Alist
+        logo: https://alist.nn.ci/logo.svg
+        url: https://alist.nn.ci/zh/
+        description: 一个支持多种存储的文件列表程序，使用 Gin 和 Solidjs。
+      - title: 易有云
+        logo: https://www.linkease.com/logoYi.ico
+        url: https://www.linkease.com/
+        description: 易有云，数据归一，访问无限，手机相册备份，电脑数据同步，统一管理所有设备数据。
+      - title: ZFile
+        logo: https://www.zfile.vip/favicon.svg
+        url: https://www.zfile.vip/
+        description: 个人网盘搭建源码
+      - title: 青阳网络文件传输系统 kiftd
+        logo: https://kohgylw.github.io/img/icon.png
+        url: https://kohgylw.github.io/
+        description: 欢迎访问kiftd官方网站！kiftd是一款便捷、开源、功能完善的网盘搭建系统
+        
+  - category: 博客&论坛
+    icon: fa-solid fa-wordpress
+    links:
+      - title: 果核剥壳
+        logo: https://www.ghxi.com/favicon.ico
+        url: https://www.ghxi.com/
+        description: 果核剥壳是一家综合科技站点，看新闻，分享破解软件、绿色软件，Windows系统。守住互联网最后的一片净土。
+      - title: 423Down
+        logo: https://www.423down.com/wp-content/themes/D7/img/favicon.ico
+        url: https://www.423down.com/
+        description: 知名软件达人|423DOWN.COM,更新快、专注去广告类软件输出10年、个人IP品牌软件分享站
 
-  - category: 软件下载
+  - category: 软件&系统
     icon: fa-solid fa-download
     links:
       - title: 口袋系统
         logo: https://www.disktool.cn/favicon.ico
         url: https://www.disktool.cn/
         description: 傲梅致力于数据安全领域，为用户提供安全可靠的傲梅分区助手、轻松备份、数据恢复软件恢复之星以及远程控制软件Anyviewer等。
+
+  - category: 内网穿透
+    icon: fa-solid fa-sitemap
+    links:
+      - title: 小鸡内网穿透
+        logo: https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=https://www.chickfrp.com/
+        url: https://www.chickfrp.com/
+        description: 小鸡FRP内网穿透是一个免费的内网穿透工具，专业为您提供内网映射，NAS内网穿透，游戏联机，远程办公，开发调试
+      - title: 凯速网-综合平台
+        logo: https://my.ksust.com/view/img/logo.png
+        url: https://my.ksust.com/service.htm
+        description: 凯速网综合平台，工作平台，管理平台，对接平台等。
+      - title: 樱花内网穿透
+        logo: https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=https://www.natfrp.com/
+        url: https://www.natfrp.com/
+        description: Sakura Frp 是一个免费的内网穿透工具专业为您提供内网穿透,内网穿透服务,内网穿透软件,frp内网穿透,内网映射,Nat映射,端口映射,NAS,Minecraft的相关信息，想要了解更多详情，请联系我们。
+      - title: Lucky_DDNS
+        logo: https://lucky666.cn/666.svg
+        url: https://lucky666.cn/
+        description: 软硬路由公网神器,多平台,ipv6/ipv4 端口转发,反向代理,动态域名,语音助手网络唤醒,ipv4内网穿透,计划任务,自动证书
+      - title: DDNSTO远程控制
+        logo: https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=https://www.ddnsto.com/
+        url: https://www.ddnsto.com/
+        description: DDNSTO 内网穿透 设备原理 远程下载 远程开机 远程桌面 远程文件管理
 
   - category: 学术资源
     icon: fa-solid fa-graduation-cap
