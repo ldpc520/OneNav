@@ -272,6 +272,86 @@ categories:
         logo: https://hellowindows.cn/logo-s.png
         url: https://hellowindows.cn/
         description: HelloWindows是一个完整极致的Windows纯净系统下载站，不夹带任何私货，系统全部来源于微软官方原版，本站只是收录官方发布的系统以及工具，方便大家下载，请放心使用。永久在线：www.hellowindows.cn
+      - title: 石用软件
+        logo: https://shiyrj.top/image/logo.png
+        url: https://shiyrj.top/
+        description: 各种绿化软件
+      - title: XDown
+        logo: https://xdown.org/favicon.ico
+        url: https://xdown.org/
+        description: 免费idm下载|BitTorrent|utorrent|qbittorrent
+      - title: 连连控远程控制
+        logo: https://www.asklink.com/favicon.ico
+        url: https://www.asklink.com/
+        description: 连连控远程控制软件提供专业的高清远程桌面体验，先进的监控墙功能支持多设备同步管理，适合远程办公、游戏和IT运维需求。
+      - title: 藏宝阁
+        logo: https://321.pw/favicon.ico
+        url: https://321.pw/
+        description: 各类绿化软件下载
+      - title: 重启还原精灵
+        logo: https://img.alicdn.com/imgextra/i1/763756243/O1CN01Pr7a1A1vzLP30JDeo_!!763756243.png
+        url: https://www.huanyuan.cn/
+        description: 电脑重启后还原
+      - title: 小白云盘TV
+        logo: https://crazynoby.github.io/assets/img/favicon.ico
+        url: https://crazynoby.github.io/download
+        description: 小白云盘TV,小白云盘TV下载,阿里云盘TV,阿里云盘电视播放器,阿里云盘TV播放器
+      - title: Motrix
+        logo: https://motrix.app/favicon.ico
+        url: https://motrix.app/zh-CN/
+        description: 一款全能的下载工具，支持下载 HTTP、FTP、BT、磁力链接等资源
+      - title: Ventoy
+        logo: https://www.ventoy.net/favicon.ico
+        url: https://www.ventoy.net/
+        description: 新一代多系统启动U盘解决方案
+      - title: E速达
+        logo: http://www.esudaa.com/favicon.ico
+        url: http://www.esudaa.com/
+        description: E速达官方网站，淘宝自动发货软件，E速达自动发货，自动发送卡密，自动评价，绿色、安全、无毒、免费辅助工具(www.esudaa.com).
+      - title: 计费大师
+        logo: https://www.jifeidashi.com/favicon.ico
+        url: https://www.jifeidashi.com/
+        description: 计费大师是网吧收费管理和电脑计费等功能于一身的免费网吧收银管理系统。是适用于网吧、电脑机房等上网场所的计费与管理软件。
+      - title: JSONPlayer播放器
+        logo: https://ugc.hitv.com/10/230320011410ABB0AE35923156BB8873B157A54FERjk1/6OeuiS0.png
+        url: https://www.jsonplayer.com/
+        description: JSONPlayer播放器完全免费，兼容所有网站,支持弹幕后台、画中画、前置广告、暂停广告、记忆回放，自动下一集等功能,完美支持.m3u8、.mp4、.flv、等常见视频格式。
+      - title: 秋之盒-2019.4 | 秋之盒
+        logo: https://atmb.top/favicon.ico
+        url: https://atmb.top/
+        description: 开源免费易用的ADB工具，win11子系统APP安装
+      - title: 小皮面板(phpstudy)
+        logo: https://www.xp.cn/favicon.ico
+        url: https://www.xp.cn/
+        description: phpStudy官网2019正式推出phpStudy V8.0版本PHP集成环境，支持Windows与Linux系统，支持WEB面板操作管理，一键网站开发环境搭建配置，另经典版本phpStudy2016/2018/JspStudy环境套件同步更新中，欢迎网站开发者或运维下载使用！
+      - title: 1panel
+        logo: https://1panel.cn/img/favicon.png
+        url: https://1panel.cn/
+        description: 1Panel 是一个现代化、开源的 Linux 服务器运维管理面板。
+      - title: 深蓝远程
+        logo: https://www.slser.com/favicon.png
+        url: https://www.slser.com/
+        description: DBadmin 远程控制 穿透版 - 不用映射远程 动态IP远程 城域网远程 多级路由远程,控制端.exe , DBremotev.exe , 被控端.exe , DBremotes.exe
+      - title: ToDesk远程控制软件
+        logo: https://enterprise.todesk.com/favicon.ico
+        url: https://enterprise.todesk.com/
+        description: ToDesk远程控制软件是一款稳定流畅的远程控制电脑手机连接软件,可远程桌面办公,远程协助运维.采用端对端加密,让每一次远程访问都安全可靠.
+      - title: 当贝播放器
+        logo: https://www.dangbei.com/favicon.ico
+        url: https://www.dangbei.com/player/
+        description: 当贝播放器是一款专为智能电视，盒子，投影仪打造的播放器，专业电视播放软件，支持所有主流视频格式、具备解码能力、自动匹配电影海报封面，一款安卓好用的本地播放器。
+      - title: uTools
+        logo: https://www.u-tools.cn/assets/favicon.png
+        url: https://www.u-tools.cn/
+        description: uTools 是什么? uTools 是新一代效率工具平台，自由组合插件应用，打造专属你的趁手工具集
+      - title: JetBrains
+        logo: https://www.jetbrains.com/favicon.ico?r=1234
+        url: https://www.jetbrains.com
+        description: Python第三方开发工具
+      - title: Python
+        logo: https://www.python.org/static/favicon.ico
+        url: https://www.python.org/
+        description: 当下最强大的编程语言
 
   - category: 内网穿透
     icon: fa-solid fa-sitemap
