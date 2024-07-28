@@ -377,37 +377,57 @@ categories:
         url: https://www.ddnsto.com/
         description: DDNSTO 内网穿透 设备原理 远程下载 远程开机 远程桌面 远程文件管理
 
-  - category: 学术资源
+  - category: 干货分享
     icon: fa-solid fa-graduation-cap
     links:
-      - title: Z-library
-        logo: https://crowded-coffee-wombat.faviconkit.com/singlelogin.re
-        url: https://singlelogin.re/
-        description: Zlibrary 影子图书馆起始页面
-      - title: Library Genesis
-        logo: https://crowded-coffee-wombat.faviconkit.com/libgen.li/32
-        url: https://libgen.li/
-        description: Library Genesis 创世纪图书馆
-      - title: Wikipedia
-        logo: https://crowded-coffee-wombat.faviconkit.com/www.wikipedia.org
-        url: https://wikipedia.imkk.uk/
-        description: 维基百科镜像站
-      - title: 鸠摩搜索
-        logo: https://crowded-coffee-wombat.faviconkit.com/www.jiumodiary.com
-        url: https://www.jiumodiary.com/
-        description: 文档搜索引擎
-      - title: 熊猫搜书
-        logo: https://crowded-coffee-wombat.faviconkit.com/xmsoushu.com
-        url: https://xmsoushu.com/
-        description: 一站式读书学习导航站
-      - title: Sci-Hub
-        logo: https://crowded-coffee-wombat.faviconkit.com/sci-hub.ru/pictures/ravenround_hs.gif
-        url: https://sci-hub.ru/
-        description: 书籍论文下载 将知识带给每个人
-      - title: arXiv
-        logo: https://crowded-coffee-wombat.faviconkit.com/arxiv.org
-        url: https://arxiv.org/
-        description: 论文预印本收集网站
+      - title: 油小猴
+        logo: https://www.youxiaohou.com/favicon-16x16.png
+        url: https://www.youxiaohou.com/
+        description: 一个汇聚了各种黑科技的小站，更多黑科技请搜索公众号“油小猴”
+      - title: 350网店服务平台
+        logo: http://u.350.net/favicon.ico
+        url: http://167503.350.net
+        description: 350网店服务平台是专门为中小卖家提供的物美价廉服务平台,真正的为中小卖家着想的各种网店解决方案
+      - title: Tinywow-办公用途
+        logo: https://tinywow.com/v2/img/favicon.png
+        url: https://tinywow.com/
+        description: 我们最受欢迎的工具，我们呈现的是最好的。全免费，没有陷阱
+      - title: BitTorrent Tracker
+        logo: 
+        url: https://trackerslist.com/#/zh
+        description: Updated daily! Popular BitTorrent tracker. | 每天更新！全网热门 BT Tracker，有效提高下载速度！
+      - title: 工具哇 - 在线工具大全
+        logo: https://toolwa.com/favicon.png
+        url: https://toolwa.com/
+        description: 工具哇，提供各种新奇实用又好玩的免费在线小工具，无需下载，打开即可使用！
+      - title: GitHub Proxy 代理加速
+        logo: https://s1.ax1x.com/2023/05/20/p9420hT.png
+        url: https://mirror.ghproxy.com/
+        description: Github下载加速
+      - title: EPG-电子节目单
+        logo: https://s1.ax1x.com/2023/05/30/p9jDrX6.png
+        url: https://epg.112114.xyz/
+        description: EPG源,EPG地址,EPG,节目单,DIYP,百川,超级直播,信源格式转换,小工具,bing每日一换接口
+      - title: PushPlus
+        logo: http://www.pushplus.plus/favicon.ico
+        url: http://www.pushplus.plus/
+        description: pushplus(推送加)是一个集成了微信、企业微信、邮件、钉钉、飞书等实时消息推送平台。只需要调用简单的API，即可帮您迅速完成消息的推送，使用简单方便
+      - title: WxPusher
+        logo: https://wxpusher.zjiecode.com/admin/favicon.ico
+        url: https://wxpusher.zjiecode.com/admin/login
+        description: WxPusher微信消息推送服务
+      - title: 萌牙采集
+        logo: https://dd-static.jd.com/ddimg/jfs/t1/133190/10/24482/12689/62298c6cE2db22067/d5ea88c9acc23fce.png
+        url: https://www.mycj.pro/
+        description: 苹果CMS采集插件
+      - title: 中国科技大学测速
+        logo: https://test.ustc.edu.cn/favicon.ico
+        url: https://test.ustc.edu.cn/
+        description: 网络测速，支持ipv4和ipv6
+      - title: eu.org
+        logo: https://nic.eu.org/favicon.ico
+        url: https://nic.eu.org/
+        description: 可以申请永久的域名
 
   - category: 网页工具
     icon: fa-solid fa-screwdriver-wrench
