@@ -169,6 +169,14 @@ categories:
         logo: https://kohgylw.github.io/img/icon.png
         url: https://kohgylw.github.io/
         description: 欢迎访问kiftd官方网站！kiftd是一款便捷、开源、功能完善的网盘搭建系统
+      - title: GXNAS网盘（远程）
+        logo: https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=https://pan.gxnas.com:1443/
+        url: https://d.gxnas.com/
+        description: 个人分享的黑群晖、Esxi虚拟机、PVE虚拟机的网盘
+      - title: 网盘资源
+        logo: https://www.maopan.vip/favicon.ico
+        url: https://www.maopan.vip/
+        description: 猫盘解析是一款基于Thinkphp5.0制作的一款可以解析阿里云盘、OneDrive网盘、迅雷云盘、天翼云盘、天翼家庭云盘、天翼企业网盘的文件直链解析程序
         
   - category: 博客|论坛
     icon: fa-solid fa-wordpress
@@ -181,6 +189,54 @@ categories:
         logo: https://www.423down.com/wp-content/themes/D7/img/favicon.ico
         url: https://www.423down.com/
         description: 知名软件达人|423DOWN.COM,更新快、专注去广告类软件输出10年、个人IP品牌软件分享站
+      - title: GXNAS博客
+        logo: https://wp.gxnas.com/wp-content/uploads/2017/12/favicon.ico
+        url: https://wp.gxnas.com/
+        description: GXNAS博客 - nas博客|nas社区|nas交流|nas技术|nas技术交流|群晖教程|软路由编译|群晖洗白
+      - title: 深蓝软件
+        logo: https://slsup.com/favicon.ico
+        url: https://slsup.com/
+        description: 深蓝个人网站，深蓝软件官方网站，深蓝软件的公告，更新和生活 深蓝穿透远程，网吧防逃费，深蓝游戏菜单
+      - title: IT天空
+        logo: https://www.itsk.com/favicon.ico
+        url: https://www.itsk.com/
+        description: 以系统封装技术与驱动技术为主的综合性IT站点,提供完善的系统批量部署解决方案、易用的离线万能驱动和适合装机技术员的U盘PE
+      - title: 亿破姐
+        logo: https://www.ypojie.com/favicon.ico
+        url: https://www.ypojie.com
+        description: 亿破姐官方网站精选互联网优秀软件分享、电脑技术、经验教程、SEO网站优化教程、IT科技资讯为一体的站点、安全、绿色、放心、YPOJIE.COM找你所需要的给你我分享的。
+      - title: 一为主题
+        logo: https://www.iotheme.cn/wp-content/themes/iotheme/images/favicon.png
+        url: https://www.iotheme.cn/
+        description: iotheme 一为主题,高品质的WordPress主题,有导航主题,wp主题,一为api,热搜榜等主题服务
+      - title: Halo
+        logo: https://www.halo.run/themes/theme-official-v2/assets/favicons/favicon-96x96.png
+        url: https://www.halo.run/
+        description: Halo 是一款强大易用的开源建站工具，配合上不同的模板与插件，可以很好地帮助你构建你心中的理想站点。
+      - title: MT论坛
+        logo: https://bbs.binmt.cc/favicon.ico
+        url: https://bbs.binmt.cc/
+        description: MT管理器2.0官方论坛,MT官网,MT管理器论坛,MT管理器,MT管理器教程,MT最新版本 
+      - title: 飘云阁
+        logo: https://www.chinapyg.com/favicon.ico
+        url: https://www.chinapyg.com/
+        description: 互联网安全、软件破解
+      - title: 吾爱破解
+        logo: https://www.52pojie.cn/favicon.ico
+        url: https://www.52pojie.cn/
+        description: 互联网安全
+      - title: 精易论坛
+        logo: https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=https://bbs.125.la/
+        url: https://bbs.125.la/
+        description: 易语言的学习基地
+      - title: 萝卜头IT论坛
+        logo: https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=https://bbs.luobotou.org/
+        url: https://bbs.luobotou.org/
+        description: 萝卜头IT论坛-大众化的电脑知识交流论坛 
+      - title: 智能电视网
+        logo: https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=https://www.znds.com/
+        url: https://www.znds.com/
+        description: ZNDS智能电视网是中国知名的智能电视论坛,关注智能电视,智能电视盒,安卓电视,安卓TV,安卓机顶盒论坛,智能电视软件下载,Android智能电视机,智能电视游戏。安卓智能电视TV应用市场,TV OS Rom,刷机教程,安卓TV软件下载,Android电视软件商店,智能电视APP应用分享和交流。 
 
   - category: 软件|系统
     icon: fa-solid fa-download
