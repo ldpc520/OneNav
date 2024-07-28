@@ -73,37 +73,33 @@ categories:
         url: https://glados.space/landing/9PR25-TZB9J-53PWH-NVUDY
         description: 科学上网/翻墙, 学生及教职工可通过edu邮箱获得365天的时长
 
-  - category: 个人站点
+  - category: 个人常用
     icon: fa-solid fa-laptop
     links:
-      - title: NextChat
-        logo: https://cdn.imkk.uk/icon/nav/nextchat.ico
-        url: https://chat.imkk.uk/
-        description: ChatGPT网页应用, 部署于Vercel
+      - title: GitCode
+        logo: https://gitcode.net/uploads/-/system/appearance/favicon/1/icon.png
+        url: https://gitcode.net/
+        description: GitCode——开源代码托管平台，独立第三方开源社区，Git/Github/Gitlab
+      - title: Gitea
+        logo: https://gitea.com/assets/img/favicon.png
+        url: https://gitea.com/
+        description: Gitea是一款类似github的代码托管网站
+      - title: Gitee - 企业级 DevOps 研发效能平台
+        logo: https://gitee.com/favicon.ico
+        url: https://gitee.com/
+        description: 代码托管平台
       - title: Github
         logo: https://s1.ax1x.com/2023/05/20/p9420hT.png
         url: https://github.com/
         description: GitHub是一个面向开源及私有软件项目的托管平台，因为只支持Git作为唯一的版本库格式进行托管
-      - title: BingAI
-        logo: https://cdn.imkk.uk/icon/nav/bingai.ico
-        url: https://bingai.imkk.uk/
-        description: NewBing镜像站, 部署于Cloudflare Workers
-      - title: OneAPI
-        logo: https://cdn.imkk.uk/icon/nav/oneapi.ico
-        url: https://oapi.imkk.uk/
-        description: ChatGPT API分发站, 有需要的可发邮件申请Key
-      - title: Alist
-        logo: https://cdn.imkk.uk/icon/nav/alist.svg
-        url: http://frpnn2.chickfrp.com:10020
-        description: 个人网盘, 部署于本地
-      - title: Reader
-        logo: https://cdn.imkk.uk/icon/nav/reader.ico
-        url: https://yuedu.imkk.uk/
-        description: 开源小说/网文阅读, 部署于本地, Cloudflare代理
-      - title: FileBox
-        logo: https://cdn.imkk.uk/icon/nav/filebox.png
-        url: https://box.imkk.uk/
-        description: 匿名口令分享文本、文件, 部署于本地, Cloudflare代理
+      - title: 有道翻译
+        logo: https://shared-https.ydstatic.com/images/favicon.ico
+        url: https://fanyi.youdao.com/
+        description: 在线翻译
+      - title: 集知盒子
+        logo: https://www.jizhihezi.com/wp-content/uploads/2020/04/LOGO.png
+        url: https://www.jizhihezi.com/
+        description: 集知盒子是一个集学习、办公、娱乐于一体的免费资源平台,让你极速找到想要的资源。真正做到省心、省时、省力、省钱。内容包括各类精品学习网站、技能学习、BT种子磁力搜索等。
       - title: Alist
         logo: https://alist.nn.ci/logo.svg
         url: https://alist.nn.ci/zh/
@@ -424,8 +420,12 @@ categories:
         logo: https://nic.eu.org/favicon.ico
         url: https://nic.eu.org/
         description: 可以申请永久的域名
+      - title: OneNav
+        logo: https://www.onenav.top/favicon.ico
+        url: https://www.onenav.top/
+        description: OneNav导航网站源码下载。
 
-  - category: 网页工具
+  - category: 网页_工具
     icon: fa-solid fa-screwdriver-wrench
     links:
       - title: 工具哇 - 在线工具大全
@@ -456,7 +456,6 @@ categories:
         logo: https://chrome.zzzmh.cn/favicon.ico
         url: https://chrome.zzzmh.cn/
         description: 极简插件是一个优质Chrome插件扩展收录下载网站，收录热门好用的Chrome插件扩展，国内最方便的插件下载网站。
-
       - title: ALL TO ALL
         logo: https://crowded-coffee-wombat.faviconkit.com/www.alltoall.net
         url: https://www.alltoall.net/
@@ -476,7 +475,7 @@ categories:
       - title: UApi
         logo: https://crowded-coffee-wombat.faviconkit.com/uapis.cn
         url: https://uapis.cn/zh_cn/
-        description: 提供免费接口调用平台
+        description: 提供免费接口调用平台        
 
   - category: 设计素材
     icon: fa-solid fa-marker
