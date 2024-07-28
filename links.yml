@@ -56,6 +56,10 @@ categories:
     hide_menu: true
     icon: fa-solid fa-star
     links:
+      - title: GitHub Proxy 代理加速
+        logo: https://s1.ax1x.com/2023/05/20/p9420hT.png
+        url: https://mirror.ghproxy.com/
+        description: Github下载加速    
       - title: Cloudflare代理
         logo: https://cdn.imkk.uk/icon/nav/cloudflare.ico
         url: https://proxy.imkk.uk/
@@ -396,14 +400,6 @@ categories:
         logo: 
         url: https://trackerslist.com/#/zh
         description: Updated daily! Popular BitTorrent tracker. | 每天更新！全网热门 BT Tracker，有效提高下载速度！
-      - title: 工具哇 - 在线工具大全
-        logo: https://toolwa.com/favicon.png
-        url: https://toolwa.com/
-        description: 工具哇，提供各种新奇实用又好玩的免费在线小工具，无需下载，打开即可使用！
-      - title: GitHub Proxy 代理加速
-        logo: https://s1.ax1x.com/2023/05/20/p9420hT.png
-        url: https://mirror.ghproxy.com/
-        description: Github下载加速
       - title: EPG-电子节目单
         logo: https://s1.ax1x.com/2023/05/30/p9jDrX6.png
         url: https://epg.112114.xyz/
@@ -432,14 +428,35 @@ categories:
   - category: 网页工具
     icon: fa-solid fa-screwdriver-wrench
     links:
-      - title: 刘明野的工具箱
-        logo: https://crowded-coffee-wombat.faviconkit.com/tools.liumingye.cn
-        url: https://tools.liumingye.cn/
-        description: 刘明野的工具箱提供好用、易用的工具
+      - title: 工具哇 - 在线工具大全
+        logo: https://toolwa.com/favicon.png
+        url: https://toolwa.com/
+        description: 工具哇，提供各种新奇实用又好玩的免费在线小工具，无需下载，打开即可使用！    
       - title: 在线工具
         logo: https://crowded-coffee-wombat.faviconkit.com/tool.lu
         url: https://tool.lu/
         description: 在线工具 - 你的工具箱
+      - title: PDF24 Tools
+        logo: https://tools.pdf24.org/static/img/pdf24.png?v=658057a1
+        url: https://tools.pdf24.org/zh/
+        description: 合并、压缩、创建、编辑和转换PDF文件的免费在线PDF工具。 快捷方便。没有安装。没有注册。
+      - title: 短视频图片免费去水印解析
+        logo: http://www.dspjx.com/static/img/favicon.ico
+        url: http://www.dspjx.com/
+        description: 支持抖音快手小红书火山微博哔哩哔哩QQ看点好看西瓜视频皮皮虾微视今日头条美拍绿洲秒拍最右Tiktok闲鱼Youtube图虫等平台视频图片在线免费去水印解析下载服务工具网站
+      - title: 免费logo在线制作
+        logo: https://www.uugai.com/favicon.ico
+        url: https://www.uugai.com/
+        description: 智能AI商标logo设计，100%U钙网原创，无论你董不懂设计,仅需输入文字，您就可以自助设计出专业、精美的LOGO,无限制免费下载，十几年专业专注智能LOGO设计，服务用户已超千万
+      - title: Crx搜搜
+        logo: https://www.crxsoso.com/safari-pinned-tab.svg
+        url: https://www.crxsoso.com/
+        description: Crx搜搜，又名扩展搜搜，可以一键搜索并下载 Chrome，Edge，Firefox，Opera 扩展程序 crx/xpi 安装包和 Microsoft Store 应用程序，并可以将插件安装到 Chrome浏览器，Edge浏览器，QQ浏览器，360浏览器，搜狗浏览器，火狐浏览器等 90+ 款浏览器中。解决无法直接访问 Chrome 应用商店的问题。
+      - title: 极简插件
+        logo: https://chrome.zzzmh.cn/favicon.ico
+        url: https://chrome.zzzmh.cn/
+        description: 极简插件是一个优质Chrome插件扩展收录下载网站，收录热门好用的Chrome插件扩展，国内最方便的插件下载网站。
+
       - title: ALL TO ALL
         logo: https://crowded-coffee-wombat.faviconkit.com/www.alltoall.net
         url: https://www.alltoall.net/
@@ -456,10 +473,6 @@ categories:
         logo: https://crowded-coffee-wombat.faviconkit.com/smms.app
         url: https://smms.app/
         description: 图像分享, 免费图床
-      - title: AbeimAPI
-        logo: https://crowded-coffee-wombat.faviconkit.com/res.abeim.cn/api
-        url: https://res.abeim.cn/api/
-        description: 免费稳定的API接口
       - title: UApi
         logo: https://crowded-coffee-wombat.faviconkit.com/uapis.cn
         url: https://uapis.cn/zh_cn/
