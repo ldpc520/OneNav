@@ -196,10 +196,6 @@ categories:
         logo: https://slsup.com/favicon.ico
         url: https://slsup.com/
         description: 深蓝个人网站，深蓝软件官方网站，深蓝软件的公告，更新和生活 深蓝穿透远程，网吧防逃费，深蓝游戏菜单
-      - title: 又要重装系统站
-        logo: https://yyczxt.com/static/img/favicon.svg
-        url: https://yyczxt.com/
-        description: 又要重装系统站，专业系统下载站，提供各种修改版，精简版，优化版Windows系统包，Windows10，Windows11，PE等系统版本下载
       - title: 我不是矿神
         logo: https://imnks.com/favicon.ico
         url: https://imnks.com/
@@ -268,6 +264,14 @@ categories:
         logo: https://www.disktool.cn/favicon.ico
         url: https://www.disktool.cn/
         description: 傲梅致力于数据安全领域，为用户提供安全可靠的傲梅分区助手、轻松备份、数据恢复软件恢复之星以及远程控制软件Anyviewer等。
+      - title: 又要重装系统站
+        logo: https://yyczxt.com/static/img/favicon.svg
+        url: https://yyczxt.com/
+        description: 又要重装系统站，专业系统下载站，提供各种修改版，精简版，优化版Windows系统包，Windows10，Windows11，PE等系统版本下载
+      - title: HelloWindows.cn
+        logo: https://hellowindows.cn/logo-s.png
+        url: https://hellowindows.cn/
+        description: HelloWindows是一个完整极致的Windows纯净系统下载站，不夹带任何私货，系统全部来源于微软官方原版，本站只是收录官方发布的系统以及工具，方便大家下载，请放心使用。永久在线：www.hellowindows.cn
 
   - category: 内网穿透
     icon: fa-solid fa-sitemap
