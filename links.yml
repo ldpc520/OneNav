@@ -76,6 +76,14 @@ categories:
   - category: 个人常用
     icon: fa-solid fa-laptop
     links:
+      - title: Netlify
+        logo: https://www.netlify.com/favicon/favicon.ico
+        url: https://www.netlify.com/
+        description: 利用Netlify实现可扩展、可组合的Web架构的速度、敏捷性和性能。立即探索可组合的Web平台！
+      - title: Vercel
+        logo: https://assets.vercel.com/image/upload/front/favicon/vercel/favicon.ico
+        url: https://vercel.com/
+        description: 代码托管，Vercel的前端云为开发人员提供了框架、工作流和基础设施，以构建更快、更个性化的Web。
       - title: GitCode
         logo: https://gitcode.net/uploads/-/system/appearance/favicon/1/icon.png
         url: https://gitcode.net/
