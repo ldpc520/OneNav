@@ -460,7 +460,19 @@ categories:
         logo: https://histb.com/img/favicon.ico
         url: https://histb.com/
         description: 海思机顶盒,hi3798m,nas系统,嵌入式系统,ubuntu移植,arm系统
-
+      - title: 不死Breed
+        logo: ./logos/breed.png
+        url: https://breed.hackpascal.net/
+        description: 路由器刷机的底层固件
+      - title: FROS路由系统
+        logo: ./logos/fros.png
+        url: http://www.fros.org.cn/
+        description: OpenWRT开发的路由器系统
+      - title: 梦牛网络
+        logo: ./logos/梦.png
+        url: https://www.mnn.tw/
+        description: 梦牛网络使用CNAME方式接入Cloudflare全球CDN防御系统,CF CDN具备高防御CNAME接入特性,并自研服务器遥感监测技术为您提供无限量的服务器高防御方案
+        
   - category: 网页_工具
     icon: fa-solid fa-screwdriver-wrench
     links:
