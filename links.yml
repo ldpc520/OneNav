@@ -441,7 +441,7 @@ categories:
         url: https://www.qnap.com.cn/zh-cn
         description: 威博通科技(QNAP Systems, Inc.)致力于研发并提供高质量网络储存设备 (NAS) 及专业及网络监控录像设备 (NVR) 给家庭、SOHO族、以及中小企业用户。
       - title: 高恪路由系统
-        logo: http://www.gocloud.cn/favicon.ico
+        logo: https://telegraph-image-c25.pages.dev/file/9ad7a807710e16624bfd6.jpg
         url: http://www.gocloud.cn/
         description: 高恪网络（Gocloud）专注于企业、网吧路由产品及网络解决方案，免费固件领导者
       - title: koolcenter路由系统
@@ -472,6 +472,18 @@ categories:
         logo: https://telegraph-image-c25.pages.dev/file/7d5de957bdf85c1c527f1.png
         url: https://www.mnn.tw/
         description: 梦牛网络使用CNAME方式接入Cloudflare全球CDN防御系统,CF CDN具备高防御CNAME接入特性,并自研服务器遥感监测技术为您提供无限量的服务器高防御方案
+      - title: OpenWrt固件下载与在线定制编译
+        logo: https://supes.top/favicon.ico
+        url: https://supes.top/
+        description: OpenWRT路由系统免费定制
+      - title: padavan
+        logo: https://s1.ax1x.com/2023/05/20/p94WksH.png
+        url: http://opt.cn2qq.com/padavan/
+        description: 老毛子固件
+      - title: Openwrt 插件库
+        logo: https://s1.ax1x.com/2023/05/20/p94WVeA.png
+        url: https://dl.openwrt.ai/
+        description: OpenWRT的插件库
         
   - category: 网页_工具
     icon: fa-solid fa-screwdriver-wrench
