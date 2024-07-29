@@ -456,6 +456,10 @@ categories:
         logo: https://www.synology.cn/img/icon/favicon@2x.png?v=20191021
         url: https://www.synology.cn/zh-cn
         description: Synology 提供你安全、高效率的资料管理系统，确保你能从容掌握极速成长的庞大数位资料，从中取得竞争优势。
+      - title: 海思芯机顶盒NAS系统
+        logo: https://histb.com/img/favicon.ico
+        url: https://histb.com/
+        description: 海思机顶盒,hi3798m,nas系统,嵌入式系统,ubuntu移植,arm系统
 
   - category: 网页_工具
     icon: fa-solid fa-screwdriver-wrench
