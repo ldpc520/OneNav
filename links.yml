@@ -116,6 +116,14 @@ categories:
         logo: https://qglimg.qinglm.com/qinggl/favicon.ico
         url: https://gonglue.qinggl.com/app/img/icon.jsp
         description: 图标抓取工具,帮您快速的定位网页的favicon.ico图标网址,先分析当前网址shortcut标签,如果不存在,则访问网站首页,如果首页shortcut标签也不存在,则访问默认的根目录favicon.ico图标。
+      - title: 字体库
+        logo: https://wordshub.github.io/free-font/images/favicon.ico
+        url: https://wordshub.github.io/free-font/
+        description: 庞大的免费字体库
+      - title: 语雀 - 用语雀
+        logo: https://www.yuque.com/favicon.ico
+        url: https://www.yuque.com/
+        description: 十万阿里人都在用的笔记与文档知识库，面向企业、组织或个人，提供全新的体系化知识管理，打造轻松流畅的工作协同。金融级数据安全、丰富的应用场景、强大的知识创作与管理，助力企业、个人轻松拥有云端知识库        
         
   - category: 网盘_资源
     icon: fa-solid fa-cloud-upload
@@ -200,6 +208,10 @@ categories:
         logo: https://www.423down.com/wp-content/themes/D7/img/favicon.ico
         url: https://www.423down.com/
         description: 知名软件达人|423DOWN.COM,更新快、专注去广告类软件输出10年、个人IP品牌软件分享站
+      - title: 小鱼儿系统
+        logo: https://17110378.s21i.faiusr.com/5/ABUIABAFGAAg4cib5QUortWssAMwgAE4gAE.ico
+        url: https://www.yrxitong.com/
+        description: 系统封装教程及下载        
       - title: GXNAS博客
         logo: https://wp.gxnas.com/wp-content/uploads/2017/12/favicon.ico
         url: https://wp.gxnas.com/
@@ -272,6 +284,10 @@ categories:
   - category: 软件_系统
     icon: fa-solid fa-download
     links:
+      - title: Watt Toolkit
+        logo: https://steampp.net/favicon.ico
+        url: https://steampp.net/
+        description: 「Watt Toolkit」是一个包含多种Steam工具功能的工具箱。Github网站加速    
       - title: 口袋系统
         logo: https://www.disktool.cn/favicon.ico
         url: https://www.disktool.cn/
