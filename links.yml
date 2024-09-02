@@ -467,7 +467,11 @@ categories:
 
   - category: 路由器_NAS
     icon: fa-solid fa-wifi
-    links:
+    links:    
+      - title: 飞牛私有云NAS
+        logo: https://fnnas.com/favicon.ico
+        url: https://fnnas.com/
+        description: 基于最新 Linux 内核（Debian 发行版）深度开发
       - title: U-NAS
         logo: http://www.u-nas.cn/images/browser_logo.png
         url: http://www.u-nas.cn/
