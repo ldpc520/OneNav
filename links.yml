@@ -76,10 +76,6 @@ categories:
   - category: 个人常用
     icon: fa-solid fa-laptop
     links:
-      - title: 小霸王街机
-        logo: https://www.yikm.net/logo.png
-        url: https://www.yikm.net/
-        description: 魂斗羅，超級瑪麗，熱血足球，三國志，合金彈頭，拳皇。這些小時候的回憶，黑白電視機前玩著小霸王游機的那種感覺令人懷念，希望  
       - title: Netlify
         logo: https://www.netlify.com/favicon/favicon.ico
         url: https://www.netlify.com/
@@ -664,6 +660,14 @@ categories:
   - category: 摸鱼娱乐
     icon: fa-solid fa-gamepad
     links:
+      - title: 小霸王
+        logo: https://www.yikm.net/logo.png
+        url: https://www.yikm.net/
+        description: 魂开羅，超級瑪麗，熱血足球，三國志，合金彈頭，拳皇。這些小時候的回憶，黑白電視機前玩著小霸王游機的那種感覺令人懷念，希望
+      - title: 小霸王在线玩
+        logo: https://www.wexyx.com/static/icon.jpg
+        url: https://www.wexyx.com/
+        description: 怀旧街机、黑白游戏机
       - title: 神奇海螺试验场
         logo: https://besticon-demo.herokuapp.com/icon?url=lab.magiconch.com&size=16..32..120
         url: https://lab.magiconch.com/
