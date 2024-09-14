@@ -76,6 +76,10 @@ categories:
   - category: 个人常用
     icon: fa-solid fa-laptop
     links:
+      - title: 小霸王街机
+        logo: https://www.yikm.net/logo.png
+        url: https://www.yikm.net/
+        description: 魂斗羅，超級瑪麗，熱血足球，三國志，合金彈頭，拳皇。這些小時候的回憶，黑白電視機前玩著小霸王游機的那種感覺令人懷念，希望  
       - title: Netlify
         logo: https://www.netlify.com/favicon/favicon.ico
         url: https://www.netlify.com/
