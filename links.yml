@@ -528,6 +528,10 @@ categories:
   - category: 网页_工具
     icon: fa-solid fa-screwdriver-wrench
     links:
+      - title: SwanHub
+        logo: https://swanhub.co/logo.ico
+        url: https://swanhub.co/
+        description: SwanHub是AI模型的聚集地，集代码托管、demo构建和展示于一体
       - title: 工具哇 - 在线工具大全
         logo: https://toolwa.com/favicon.png
         url: https://toolwa.com/
