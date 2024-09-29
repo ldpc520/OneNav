@@ -208,6 +208,10 @@ categories:
   - category: 博客_论坛
     icon: fa-solid fa-wordpress
     links:
+      - title: Gridea静态博客程序
+        logo: https://open.gridea.dev/favicon.ico
+        url: https://open.gridea.dev/
+        description: Gridea 是一个静态博客写作客户端，帮助你更容易地构建并管理博客或任何静态站点。
       - title: 果核剥壳
         logo: https://www.ghxi.com/favicon.ico
         url: https://www.ghxi.com/
