@@ -536,6 +536,10 @@ categories:
   - category: 网页_工具
     icon: fa-solid fa-screwdriver-wrench
     links:
+      - title: 在线webp转换
+        logo: https://www.anywebp.com/favicon.ico
+        url: https://www.anywebp.com/
+        description: 一款支持在线转换图片格式的工具
       - title: SwanHub
         logo: https://swanhub.co/logo.ico
         url: https://swanhub.co/
