@@ -136,6 +136,10 @@ categories:
   - category: 网盘_资源
     icon: fa-solid fa-cloud-upload
     links:
+      - title: 六一云
+        logo: https://www.now61.com/static/img/favicon.ico
+        url: https://www.now61.com/login
+        description: 一个直链网盘
       - title: 夸克网盘
         logo: https://image.quark.cn/s/uae/g/3o/broccoli/resource/202404/d94d93e0-03a2-11ef-be4c-79ebae2e18ac.vnd.microsoft.icon
         url: https://pan.quark.cn/
