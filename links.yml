@@ -300,6 +300,14 @@ categories:
   - category: 软件_系统
     icon: fa-solid fa-download
     links:
+      - title: 量产开卡工具
+        logo: http://am.adianshi.com:6805/_h5ai/public/images/favicon/favicon-16-32.ico
+        url: http://am.adianshi.com:6805/
+        description: 众多的量产开卡工具
+      - title: 多开鸭
+        logo: https://www.duokaiya.com/wp-content/uploads/2023060420540083.png
+        url: https://www.duokaiya.com/
+        description: 模拟器多开改真机
       - title: Watt Toolkit
         logo: https://steampp.net/favicon.ico
         url: https://steampp.net/
